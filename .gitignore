@@ -1,0 +1,15 @@
+.ipynb_checkpoints
+#*.csv
+*.txt
+*.html
+*.json
+/lab_code/*
+/older_scripts/*
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
+*.pdf
+*.zip
+*.tar.gz
